@@ -7,6 +7,7 @@ Chạy file execute.sh để thực thi script trên linux.
 Chạy file execute.bat để thực thi script trên window
 
 #########
+
 Uncomment các dòng matlab để xử lí tự động trên matlab
 
 Các dữ liệu input/output được đặt tại thư mục data_inout.
